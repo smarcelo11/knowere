@@ -1,3 +1,5 @@
-#pf-src-url {
-    display:none;
+/* Removes the header */
+
+#printfriendly #pf-src{
+     display:none;
 }
