@@ -3,3 +3,7 @@
 #printfriendly #pf-src{
      display:none;
 }
+
+#printfriendly #copyright{
+     display:none;
+}
